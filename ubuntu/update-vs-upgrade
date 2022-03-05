@@ -1,0 +1,12 @@
+apt-get update vs apt-get upgrade의 차이 
+-apt-get update : 현재 사용 가능한 패키지와 그 버전에 대해서 리스트를 업데이트 해준다.
+설치가 아니라 리스트 업데이트이다.
+'sudo apt-get update'
+-apt-get upgrade : 리스트 update이후에 upgrade를 진행한다.
++a 기본 설치 리스트 저장 위치 : 
+/etc/apt/sources.list
+'cat 
+/etc/apt/sources.list'
+
+updata 에러 해결
+
