@@ -9,4 +9,7 @@ apt-get update vs apt-get upgrade의 차이
 /etc/apt/sources.list'
 
 updata 에러 해결
-
+apt-get 서버 변경 방법
+sudo vi /etc/apt/sources.list 소스 리스트에 접근해
+:%s/archive.ubuntu.com/ftp.daumkakao.com 주소를 바꿔준다.
+:wq
