@@ -1,3 +1,5 @@
+# summary
+![20220311105823](https://user-images.githubusercontent.com/96465753/157787457-268fdf5d-67f5-45bf-b4bd-c2ba316b9ee5.png) <br>
 1. 상황.
 sudo apt-get update 실행시 다음과 같은 에러 발생.
 'Temporary failure resolving 'url''
